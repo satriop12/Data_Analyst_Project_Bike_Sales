@@ -1,4 +1,4 @@
-Understanding the background of bicycle buyers. Processing and analyzing using Microsoft Excel, and visualizing datasets using Power BI. This project aims to understand the background of bicycle buyers, enabling the marketing strategy and target audience to be identified based on the conducted analysis. 
+Understanding the background of bicycle buyers. Processing and analyzing datasetusing Microsoft Excel, and visualizing dataset using Power BI. This project aims to understand the background of bicycle buyers, enabling the marketing strategy and target audience to be identified based on the conducted analysis. 
 
 
 Points of Interest
